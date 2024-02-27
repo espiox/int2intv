@@ -21,6 +21,7 @@ Certain games don't work - check the Google Doc above for specific info:
 * Anything that relies on JLP features can't be converted to the INTV format at all, as far as I can tell.
 * Some games (particularly with large numbers of memory addresses) seem to simply result in an "Unaligned Value" error when attempting to run them.
 * I'm also not sure how to correctly convert games with RAM addresses specified, though some seem to run okay as-is. This should be supported by the INTV2 format.
+
 If you know how resolve any of these errors, please let me know!
 
 
