@@ -1,5 +1,5 @@
 # int2intv
-## Intellivision ROM converter for Analogue Pocket & NT Mini cores. 
+## Intellivision ROM converter for Analogue Pocket & NT Mini cores
 
 This will convert Intellivision games into the INTV2 format ([as documented here](https://github.com/SmokeMonsterPacks/Nt-Mini-Noir-Jailbreak#intellivision-core-release-notes)). I've extended the tool with built-in conversion for most compatible homebrew games. 
 Original tool by [dot-bob](https://github.com/dot-bob/int2intv), and incorporating work by [mholzinger](https://github.com/mholzinger/int2intv).
