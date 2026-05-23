@@ -12,7 +12,7 @@ Then run this on the resulting BIN file, via the command line:
 
 > int2intv -m X \<input file\> \<output file\>
 
-X = Memory map number for each ROM (Check this [Google Doc](https://docs.google.com/spreadsheets/d/11WgwYnT4n2ISqqROVcIkUwWzz7HQMCu4FcrRUb02kGE/edit?usp=sharing))
+X = Memory map number for each ROM (Check the spreadsheet)
 
 Map #99 is used to convert the intellivision Executive ROM (CRC32 0xCBCE86F7) to the correct format for the Intellivision core.
 
