@@ -14,7 +14,7 @@ Then run this on the resulting BIN file, via the command line:
 
 X = Memory map number for each ROM (Check the spreadsheet)
 
-Map #99 is used to convert the intellivision Executive ROM (CRC32 0xCBCE86F7) to the correct format for the Intellivision core.
+Map #999 is used to convert the intellivision Executive ROM (CRC32 0xCBCE86F7) to the correct format for the Intellivision core.
 
 
 ## Compatibility Issues
